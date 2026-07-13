@@ -197,9 +197,6 @@ git clone <repository_url>
 
 Install dependencies
 
-```bash
-pip install -r requirements.txt
-```
 
 ### Step 3
 
@@ -243,7 +240,4 @@ The trained model can assist retailers in:
 
 ---
 
-## Author
-
-Kiran Tharun
 
