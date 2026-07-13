@@ -183,35 +183,7 @@ After evaluating all models, the Random Forest Regressor provided the best overa
 
 ---
 
-## Project Structure
 
-```
-Retail_Demand_Forecasting/
-
-│── Dataset/
-│   ├── train.csv
-│   ├── test.csv
-│   ├── features.csv
-│   └── stores.csv
-│
-│── Notebook/
-│   └── Retail_Demand_Forecasting.ipynb
-│
-│── Models/
-│   └── best_model.pkl
-│
-│── Outputs/
-│   ├── Graphs
-│   ├── Predictions
-│   └── Feature Importance
-│
-│── README.md
-│── requirements.txt
-```
-
----
-
-## How to Run
 
 ### Step 1
 
